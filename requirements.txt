@@ -1,0 +1,7 @@
+numpy
+pandas
+nbterm
+ipykernel
+scikit-learn
+matplotlib
+pylint
