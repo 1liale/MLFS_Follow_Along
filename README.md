@@ -16,3 +16,4 @@ As noted on Patrick's repo, the main dependencies used by this project are:
 - [KNN](/KNN/) example demonstrating iris colour classification.
 - [Linear Regression](/LinearRegression/) example demonstrating find a line of best fit for a set of points.
 - [Logistic Regression](/LogisticRegression/) example demonstrating classifcation of binary features.
+- [Naive Bayes](/NaiveBayes/)hypothetis of independent features on a simple classification example.
