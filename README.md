@@ -22,8 +22,9 @@ Time Required Estimate: ~ 1-2 hrs per day
 
 ## Table of Contents
 > (Non-Parametric Class of Algorithms)
-- [KNN](/KNN/) example demonstrating iris colour classification.
-- [Linear Regression](/LinearRegression/) example demonstrating find a line of best fit for a set of points.
-- [Logistic Regression](/LogisticRegression/) example demonstrating classifcation of binary features.
+- [KNN](/KNN/) simple classification problem for iris colours.
+- [Linear Regression](/LinearRegression/) example demonstrates finding a line of best fit for a set of points.
+- [Logistic Regression](/LogisticRegression/) applied to a non-linearly seperable binary classification problem.
 - [Naive Bayes](/NaiveBayes/) applied to a simple classification example.
-- [Perceptron](/Perceptron/) applied to a binary classification problem.
+- [Perceptron](/Perceptron/) applied to a linearly sepearble binary classification problem.
+- [SVM](/SVM/) applied to a binary classification problem.
