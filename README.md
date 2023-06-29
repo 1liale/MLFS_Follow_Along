@@ -12,19 +12,19 @@ As noted on Patrick's repo, the main dependencies used by this project are:
 > Note that only `numpy` is actually used for the algorithms' implementation, the rest are just to make it easier for us.
 
 ## Goals
-> Golden rule: Add one example of a class of algorithm per day or augment an existing one (following steps outlined below) 
+> Main objective: Add one example per algorithm class or augment an existing one (following steps outlined below) per day
 
 Time Required Estimate: ~ 1-2 hrs per day
 
 - Step 1: Experiment and modify examples provided by the tutorials to learn the fundamentals of each ML algorithm.
 - Step 2: Improve on the provided examples (i.e adding regularization and experiment with different optimizers)
-- Step 3: Augment on the existing examples with new classes such as ANN, CNN, and RNN etc
+- Step 3: Augment on the existing examples list with new models such as ANN, CNN, and RNN etc
 
 ## Table of Contents
 > (Non-Parametric Class of Algorithms)
 - [KNN](/KNN/) simple classification problem for iris colours.
 - [Linear Regression](/LinearRegression/) example demonstrates finding a line of best fit for a set of points.
-- [Logistic Regression](/LogisticRegression/) applied to a non-linearly seperable binary classification problem.
+- [Logistic Regression](/LogisticRegression/) applied to a non-linearly separable binary classification problem.
 - [Naive Bayes](/NaiveBayes/) applied to a simple classification example.
-- [Perceptron](/Perceptron/) applied to a linearly sepearble binary classification problem.
+- [Perceptron](/Perceptron/) applied to a linearly separable binary classification problem.
 - [SVM](/SVM/) applied to a binary classification problem.
