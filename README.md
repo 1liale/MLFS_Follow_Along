@@ -27,3 +27,5 @@ Time Required Estimate: ~ 0.5-2 hrs per day
 - [Naive Bayes](/NaiveBayes/) applied to a simple classification example.
 - [Perceptron](/Perceptron/) applied to a linearly separable binary classification problem.
 - [SVM](/SVM/) applied to a binary classification problem.
+- [Decision Tree](/DecisionTree/) applied to a classification problem.
+- [Random Forest](/RandomForest/) applied to a classification problem using our Decision Tree implementation.
