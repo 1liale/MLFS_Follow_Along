@@ -30,3 +30,4 @@ Time Required Estimate: ~ 0.5-2 hrs per day
 - [Decision Tree](/DecisionTree/) applied to a classification problem.
 - [Random Forest](/RandomForest/) applied to a classification problem using our Decision Tree implementation.
 - [PCA](/PCA/) applied to reduce the dimensionality of a classification problem.
+- [KMeans](/KMeansClustering/) applied to a simple cluster problem.
